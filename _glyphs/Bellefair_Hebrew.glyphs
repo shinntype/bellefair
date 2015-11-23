@@ -2,7 +2,7 @@
 DisplayStrings = (
 "abcdefghijklmno/het-hb pq/qof-hb rstuvwxyz/qof-hb",
 "/he-hb/het-hb/zayin-hb/yod-hb/resh-hb  /shin-hb/mem-hb/tsadi-hb/alef-hb  /kaf-hb/samekh-hb/pe-hb/tav-hb  /vav-hb/bet-hb/lamed-hb/ayin-hb  /dalet-hb/gimel-hb  /qof-hb/tet-hb/finalnun-hb . /bet-hb/mem-hb/vav-hb/zayin-hb/yod-hb/alef-hb/vav-hb/finalnun-hb  /yod-hb/shin-hb/resh-hb/alef-hb/lamed-hb  /bet-hb/yod-hb/resh-hb/vav-hb/shin-hb/lamed-hb/yod-hb/finalmem-hb  /tav-hb/yod-hb/pe-hb/tav-hb/het-hb  /mem-hb/het-hb/resh-hb  /he-hb/tav-hb/ayin-hb/resh-hb/vav-hb/kaf-hb/he-hb  /dalet-hb/pe-hb/vav-hb/samekh-hb/yod-hb/finalmem-hb  /mem-hb/shin-hb/tav-hb/nun-hb/yod-hb/finalmem-hb : /mem-hb/lamed-hb/alef-hb/kaf-hb/tav-hb  /he-hb/ayin-hb/yod-hb/tsadi-hb/vav-hb/bet-hb  /shin-hb/lamed-hb  /mem-hb/shin-hb/he-hb  /shin-hb/pe-hb/yod-hb/tsadi-hb/resh-hb , /pe-hb/resh-hb/nun-hb/tsadi-hb/samekh-hb/qof-hb/he-hb  /bet-hb/resh-hb/vav-hb/finalkaf-hb  /vav-hb/he-hb/nun-hb/resh-hb/yod-hb  /pe-hb/resh-hb/yod-hb/dalet-hb/lamed-hb/nun-hb/dalet-hb/resh-hb , /shin-hb/mem-hb/pe-hb/gimel-hb/yod-hb/shin-hb/he-hb  /shin-hb/lamed-hb/vav-hb/shin-hb/he-hb  /mem-hb/het-hb/lamed-hb/vav-hb/tsadi-hb/yod-hb  /he-hb/tet-hb/yod-hb/pe-hb/vav-hb/gimel-hb/resh-hb/pe-hb/yod-hb/he-hb  /vav-hb/he-hb/ayin-hb/yod-hb/tsadi-hb/vav-hb/bet-hb  /he-hb/gimel-hb/resh-hb/pe-hb/yod-hb  /vav-hb/he-hb/tet-hb/qof-hb/samekh-hb/tet-hb/vav-hb/alef-hb/lamed-hb/yod-hb  /bet-hb/alef-hb/resh-hb/finaltsadi-hb  /yod-hb/shin-hb/resh-hb/alef-hb/lamed-hb . /shin-hb/lamed-hb/vav-hb/shin-hb/tav-hb/finalmem-hb  /ayin-hb/bet-hb/dalet-hb/vav-hb  /bet-hb/gimel-hb/resh-hb/mem-hb/nun-hb/yod-hb/he-hb  /lamed-hb/pe-hb/nun-hb/yod-hb  /ayin-hb/lamed-hb/yod-hb/yod-hb/tav-hb  /he-hb/nun-hb/alef-hb/tsadi-hb/yod-hb/finalmem-hb  /lamed-hb/shin-hb/lamed-hb/tet-hb/vav-hb/finalnun-hb .\012\012/he-hb/het-hb/zayin-hb/yod-hb/resh-hb  /shin-hb/mem-hb/tsadi-hb/alef-hb  /kaf-hb/samekh-hb/pe-hb/tav-hb  /vav-hb/bet-hb/lamed-hb/ayin-hb  /dalet-hb/gimel-hb  /qof-hb/tet-hb/finalnun-hb . /bet-hb/mem-hb/vav-hb/zayin-hb/yod-hb/alef-hb/vav-hb/finalnun-hb  /yod-hb/shin-hb/resh-hb/alef-hb/lamed-hb  /bet-hb/yod-hb/resh-hb/vav-hb/shin-hb/lamed-hb/yod-hb/finalmem-hb  /tav-hb/yod-hb/pe-hb/tav-hb/het-hb  /mem-hb/het-hb/resh-hb  /he-hb/tav-hb/ayin-hb/resh-hb/vav-hb/kaf-hb/he-hb  /dalet-hb/pe-hb/vav-hb/samekh-hb/yod-hb/finalmem-hb  /mem-hb/shin-hb/tav-hb/nun-hb/yod-hb/finalmem-hb : /mem-hb/lamed-hb/alef-hb/kaf-hb/tav-hb  /he-hb/ayin-hb/yod-hb/tsadi-hb/vav-hb/bet-hb  /shin-hb/lamed-hb  /mem-hb/shin-hb/he-hb  /shin-hb/pe-hb/yod-hb/tsadi-hb/resh-hb , /pe-hb/resh-hb/nun-hb/tsadi-hb/samekh-hb/qof-hb/he-hb  /bet-hb/resh-hb/vav-hb/finalkaf-hb  /vav-hb/he-hb/nun-hb/resh-hb/yod-hb  /pe-hb/resh-hb/yod-hb/dalet-hb/lamed-hb/nun-hb/dalet-hb/resh-hb , /shin-hb/mem-hb/pe-hb/gimel-hb/yod-hb/shin-hb/he-hb  /shin-hb/lamed-hb/vav-hb/shin-hb/he-hb  /mem-hb/het-hb/lamed-hb/vav-hb/tsadi-hb/yod-hb  /he-hb/tet-hb/yod-hb/pe-hb/vav-hb/gimel-hb/resh-hb/pe-hb/yod-hb/he-hb  /vav-hb/he-hb/ayin-hb/yod-hb/tsadi-hb/vav-hb/bet-hb  /he-hb/gimel-hb/resh-hb/pe-hb/yod-hb  /vav-hb/he-hb/tet-hb/qof-hb/samekh-hb/tet-hb/vav-hb/alef-hb/lamed-hb/yod-hb  /bet-hb/alef-hb/resh-hb/finaltsadi-hb  /yod-hb/shin-hb/resh-hb/alef-hb/lamed-hb . /shin-hb/lamed-hb/vav-hb/shin-hb/tav-hb/finalmem-hb  /ayin-hb/bet-hb/dalet-hb/vav-hb  /bet-hb/gimel-hb/resh-hb/mem-hb/nun-hb/yod-hb/he-hb  /lamed-hb/pe-hb/nun-hb/yod-hb  /ayin-hb/lamed-hb/yod-hb/yod-hb/tav-hb  /he-hb/nun-hb/alef-hb/tsadi-hb/yod-hb/finalmem-hb  /lamed-hb/shin-hb/lamed-hb/tet-hb/vav-hb/finalnun-hb .",
-"/bet-hb/gimel-hb/dalet-hb/he-hb/vav-hb/holamhaser-hb/vavholam-hb/maqaf-hb/zayin-hb/het-hb/alef-hb/tet-hb/tsadi-hb/ayin-hb/shin-hb/yod-hb/finalkaf-hb/kaf-hb/resh-hb/lamed-hb/finalmem-hb/mem-hb/finalnun-hb/nun-hb/samekh-hb/ayin-hb/tsadi-hb/finalpe-hb/pe-hb/finaltsadi-hb/tsadi-hb/qof-hb/resh-hb/finalkaf-hb/shin-hb/tav-hb/holam-hb/holamhaser-hb/holam-hb/holamhaser-hb/shindot-hb/sindot-hb/hatafqamats-hb/qubuts-hb/tsere-hb/segol-hb/sheva-hb/hatafsegol-hb/hiriq-hb/hatafpatah-hb/patah-hb/qamats-hb/patah-hb/hiriq-hb/dagesh-hb .,",
+"/bet-hb/gimel-hb/dalet-hb ne!?/he-hb/holam-hb/holamhaser-hb/vav-hb/holamhaser-hb/vavholam-hb/maqaf-hb/zayin-hb/het-hb/alef-hb/tet-hb/tsadi-hb/ayin-hb/shin-hb/shindot-hb/sindot-hb/yod-hb/finalkaf-hb/kaf-hb/resh-hb/lamed-hb/finalmem-hb/mem-hb/finalnun-hb/nun-hb/samekh-hb/ayin-hb/tsadi-hb/finalpe-hb/pe-hb/finaltsadi-hb/tsadi-hb/qof-hb/resh-hb/finalkaf-hb/shin-hb/tav-hb/holam-hb/holamhaser-hb/holam-hb/holamhaser-hb/hatafqamats-hb/qubuts-hb/tsere-hb/segol-hb/sheva-hb/hatafsegol-hb/hiriq-hb/hatafpatah-hb/patah-hb/qamats-hb/patah-hb/hiriq-hb/dagesh-hb .,",
 "/he-hb/hiriq-hb/yod-hb -/alef-hb/hiriq-hb/yod-hb/shin-hb/shindot-hb  /mem-hb/hiriq-hb/bet-hb/dagesh-hb/hiriq-hb/nun-hb/sheva-hb/yod-hb/qamats-hb/mem-hb/hiriq-hb/yod-hb/finalnun-hb  /vav-hb/dagesh-hb/shin-hb/shindot-hb/sheva-hb/mem-hb/vav-hb/holam-hb  /qof-hb/hiriq-hb/yod-hb/shin-hb/shindot-hb  /bet-hb/dagesh-hb/segol-hb/finalnun-hb -/alef-hb/hatafpatah-hb/bet-hb/hiriq-hb/yod-hb/alef-hb/tsere-hb/lamed-hb  /bet-hb/dagesh-hb/segol-hb/finalnun-hb -/tsadi-hb/sheva-hb/resh-hb/vav-hb/holam-hb/resh-hb  /bet-hb/dagesh-hb/segol-hb/finalnun-hb -/bet-hb/dagesh-hb/sheva-hb/kaf-hb/vav-hb/holam-hb/resh-hb/patah-hb/tav-hb  /bet-hb/dagesh-hb/segol-hb/finalnun-hb -/alef-hb/hatafpatah-hb/pe-hb/hiriq-hb/yod-hb/het-hb/patah-hb  /bet-hb/dagesh-hb/segol-hb/finalnun-hb -/alef-hb/hiriq-hb/yod-hb/shin-hb/shindot-hb  /yod-hb/sheva-hb/mem-hb/hiriq-hb/yod-hb/nun-hb/hiriq-hb/yod-hb  /gimel-hb/dagesh-hb/hiriq-hb/bet-hb/dagesh-hb/vav-hb/holam-hb/resh-hb  /het-hb/qamats-hb/yod-hb/hiriq-hb/lamed-hb : (/bet-hb )/vav-hb/sheva-hb/lamed-hb/vav-hb/holam-hb -/he-hb/qamats-hb/yod-hb/qamats-hb/he-hb  /bet-hb/tsere-hb/finalnun-hb  /vav-hb/dagesh-hb/shin-hb/shindot-hb/sheva-hb/mem-hb/vav-hb/holam-hb  /shin-hb/shindot-hb/qamats-hb/alef-hb/vav-hb/dagesh-hb/lamed-hb  /bet-hb/dagesh-hb/qamats-hb/het-hb/vav-hb/dagesh-hb/resh-hb  /vav-hb/qamats-hb/tet-hb/vav-hb/holam-hb/bet-hb  /vav-hb/sheva-hb/alef-hb/tsere-hb/yod-hb/finalnun-hb  /alef-hb/hiriq-hb/yod-hb/shin-hb/shindot-hb  /mem-hb/hiriq-hb/bet-hb/dagesh-hb/sheva-hb/nun-hb/tsere-hb/yod-hb  /yod-hb/hiriq-hb/shin-hb/sheva-hb/holam-hb/resh-hb/qamats-hb/alef-hb/tsere-hb/lamed-hb  /tet-hb/vav-hb/holam-hb/bet-hb  /mem-hb/hiriq-hb/mem-hb/dagesh-hb/segol-hb/nun-hb/dagesh-hb/vav-hb/dagesh-hb  /mem-hb/hiriq-hb/shin-hb/dagesh-hb/shindot-hb/hiriq-hb/kaf-hb/sheva-hb/mem-hb/vav-hb/holam-hb  /vav-hb/qamats-hb/mem-hb/patah-hb/ayin-hb/sheva-hb/lamed-hb/qamats-hb/he-hb  /gimel-hb/dagesh-hb/qamats-hb/bet-hb/holam-hb/he-hb/dagesh-hb/patah-hb  /mem-hb/hiriq-hb/kaf-hb/dagesh-hb/qamats-hb/lamed-hb -/he-hb/qamats-hb/ayin-hb/qamats-hb/finalmem-hb : (/gimel-hb )/vav-hb/patah-hb/tav-hb/dagesh-hb/holam-hb/alef-hb/bet-hb/patah-hb/dalet-hb/sheva-hb/nun-hb/qamats-hb/he-hb  /he-hb/qamats-hb/alef-hb/hatafpatah-hb/tav-hb/holam-hb/nun-hb/vav-hb/holam-hb/tav-hb  /lamed-hb/sheva-hb/qof-hb/hiriq-hb/yod-hb/shin-hb/shindot-hb  /alef-hb/hatafpatah-hb/bet-hb/hiriq-hb/yod-hb  /shin-hb/shindot-hb/qamats-hb/alef-hb/vav-hb/dagesh-hb/lamed-hb  /vav-hb/patah-hb/yod-hb/dagesh-hb/holam-hb/alef-hb/mem-hb/segol-hb/resh-hb  /qof-hb/hiriq-hb/yod-hb/shin-hb/shindot-hb  /alef-hb/segol-hb/lamed-hb -/shin-hb/shindot-hb/qamats-hb/alef-hb/vav-hb/dagesh-hb/lamed-hb  /bet-hb/dagesh-hb/sheva-hb/nun-hb/vav-hb/holam-hb  /qof-hb/patah-hb/het-hb -/nun-hb/qamats-hb/alef-hb  /alef-hb/hiriq-hb/tav-hb/dagesh-hb/sheva-hb/finalkaf-hb/qamats-hb  /alef-hb/segol-hb/tav-hb -/alef-hb/patah-hb/het-hb/patah-hb/dalet-hb  /mem-hb/tsere-hb/he-hb/patah-hb/nun-hb/dagesh-hb/sheva-hb/ayin-hb/qamats-hb/resh-hb/hiriq-hb/yod-hb/finalmem-hb  /vav-hb/sheva-hb/qof-hb/vav-hb/dagesh-hb/finalmem-hb  /lamed-hb/tsere-hb/finalkaf-hb/sheva-hb  /bet-hb/dagesh-hb/patah-hb/qof-hb/dagesh-hb/tsere-hb/shin-hb/shindot-hb  /alef-hb/segol-hb/tav-hb -/he-hb/qamats-hb/alef-hb/hatafpatah-hb/tav-hb/holam-hb/nun-hb/holam-hb/tav-hb : (/dalet-hb )/vav-hb/patah-hb/yod-hb/dagesh-hb/patah-hb/ayin-hb/hatafpatah-hb/bet-hb/holam-hb/resh-hb  /bet-hb/dagesh-hb/sheva-hb/he-hb/patah-hb/resh-hb -/alef-hb/segol-hb/pe-hb/sheva-hb/resh-hb/patah-hb/yod-hb/hiriq-hb/finalmem-hb  /vav-hb/patah-hb/yod-hb/dagesh-hb/patah-hb/ayin-hb/hatafpatah-hb/bet-hb/holam-hb/resh-hb  /bet-hb/dagesh-hb/sheva-hb/alef-hb/segol-hb/resh-hb/segol-hb/finaltsadi-hb -/shin-hb/shindot-hb/qamats-hb/lamed-hb/hiriq-hb/shin-hb/shindot-hb/qamats-hb/he-hb  /vav-hb/sheva-hb/lamed-hb/alef-hb  /mem-hb/qamats-hb/tsadi-hb/qamats-hb/alef-hb/vav-hb/dagesh-hb  /vav-hb/patah-hb/yod-hb/dagesh-hb/patah-hb/ayin-hb/patah-hb/bet-hb/sheva-hb/resh-hb/vav-hb/dagesh-hb  /bet-hb/sheva-hb/alef-hb/segol-hb/resh-hb/segol-hb/finaltsadi-hb -/shin-hb/shindot-hb/patah-hb/ayin-hb/hatafpatah-hb/lamed-hb/hiriq-hb/yod-hb/finalmem-hb  /vav-hb/qamats-hb/alef-hb/patah-hb/yod-hb/hiriq-hb/finalnun-hb  /vav-hb/patah-hb/yod-hb/dagesh-hb/patah-hb/ayin-hb/hatafpatah-hb/bet-hb/holam-hb/resh-hb  /bet-hb/dagesh-hb/sheva-hb/alef-hb/segol-hb/resh-hb/segol-hb/finaltsadi-hb -/yod-hb/sheva-hb/mem-hb/hiriq-hb/yod-hb/nun-hb/hiriq-hb/yod-hb  /vav-hb/sheva-hb/lamed-hb/alef-hb  /mem-hb/qamats-hb/tsadi-hb/qamats-hb/alef-hb/vav-hb/dagesh-hb : (/he-hb )/he-hb/tsere-hb/mem-hb/dagesh-hb/qamats-hb/he-hb  /bet-hb/dagesh-hb/qamats-hb/alef-hb/vav-hb/dagesh-hb  /bet-hb/dagesh-hb/sheva-hb/alef-hb/segol-hb/resh-hb/segol-hb/finaltsadi-hb  /tsadi-hb/vav-hb/dagesh-hb/finalpe-hb  /vav-hb/sheva-hb/shin-hb/shindot-hb/qamats-hb/alef-hb/vav-hb/dagesh-hb/lamed-hb  /alef-hb/qamats-hb/mem-hb/patah-hb/resh-hb  /lamed-hb/sheva-hb/nun-hb/patah-hb/ayin-hb/hatafpatah-hb/resh-hb/vav-hb/holam-hb  /alef-hb/hatafpatah-hb/shin-hb/shindot-hb/segol-hb/resh-hb -/ayin-hb/hiriq-hb/mem-hb/dagesh-hb/vav-hb/holam-hb  /lamed-hb/sheva-hb/kaf-hb/qamats-hb/he-hb  /vav-hb/sheva-hb/nun-hb/qamats-hb/shin-hb/shindot-hb/vav-hb/dagesh-hb/bet-hb/qamats-hb/he-hb  /pe-hb/dagesh-hb/segol-hb/finalnun-hb -/yod-hb/segol-hb/het-hb/sheva-hb/dalet-hb/dagesh-hb/patah-hb/lamed-hb  /alef-hb/qamats-hb/bet-hb/hiriq-hb/yod-hb  /mem-hb/hiriq-hb/finalnun-hb -/he-hb/qamats-hb/alef-hb/hatafpatah-hb/tav-hb/holam-hb/nun-hb/vav-hb/holam-hb/tav-hb  /vav-hb/sheva-hb/dalet-hb/qamats-hb/alef-hb/patah-hb/gimel-hb  /lamed-hb/qamats-hb/nun-hb/vav-hb/dagesh-hb : (/vav-hb )/vav-hb/patah-hb/yod-hb/dagesh-hb/holam-hb/alef-hb/mem-hb/segol-hb/resh-hb  /lamed-hb/vav-hb/holam-hb  /he-hb/hiriq-hb/nun-hb/dagesh-hb/tsere-hb/he-hb -/nun-hb/qamats-hb/alef-hb  /alef-hb/hiriq-hb/yod-hb/shin-hb/shindot-hb -/alef-hb/hatafsegol-hb/lamed-hb/he-hb/hiriq-hb/yod-hb/finalmem-hb  /bet-hb/dagesh-hb/qamats-hb/ayin-hb/hiriq-hb/yod-hb/resh-hb  /he-hb/patah-hb/zayin-hb/dagesh-hb/holam-hb/alef-hb/tav-hb  /vav-hb/sheva-hb/he-hb/qamats-hb/alef-hb/hiriq-hb/yod-hb/shin-hb/shindot-hb  /nun-hb/hiriq-hb/kaf-hb/sheva-hb/bet-hb/dagesh-hb/qamats-hb/dalet-hb  /kaf-hb/dagesh-hb/holam-hb/lamed-hb  /alef-hb/hatafpatah-hb/shin-hb/shindot-hb/segol-hb/resh-hb -/yod-hb/sheva-hb/dalet-hb/patah-hb/bet-hb/dagesh-hb/tsere-hb/resh-hb  /bet-hb/dagesh-hb/vav-hb/holam-hb/alef-hb  /yod-hb/qamats-hb/bet-hb/vav-hb/holam-hb/alef-hb  /ayin-hb/patah-hb/tav-hb/dagesh-hb/qamats-hb/he-hb  /nun-hb/tsere-hb/lamed-hb/hatafpatah-hb/kaf-hb/qamats-hb/he-hb  /shin-hb/dagesh-hb/shindot-hb/qamats-hb/finalmem-hb  /alef-hb/vav-hb/dagesh-hb/lamed-hb/patah-hb/yod-hb  /yod-hb/patah-hb/gimel-hb/dagesh-hb/hiriq-hb/yod-hb/dalet-hb  /lamed-hb/qamats-hb/nun-hb/vav-hb/dagesh-hb  /alef-hb/segol-hb/tav-hb -/dalet-hb/dagesh-hb/patah-hb/resh-hb/sheva-hb/kaf-hb/dagesh-hb/tsere-hb/nun-hb/vav-hb/dagesh-hb  /alef-hb/hatafpatah-hb/shin-hb/shindot-hb/segol-hb/resh-hb -/he-hb/qamats-hb/lamed-hb/patah-hb/kaf-hb/sheva-hb/nun-hb/vav-hb/dagesh-hb  /ayin-hb/qamats-hb/lamed-hb/segol-hb/yod-hb/he-hb/qamats-hb : (/zayin-hb )/vav-hb/patah-hb/yod-hb/dagesh-hb/holam-hb/alef-hb/mem-hb/segol-hb"
 );
 customParameters = (
@@ -594,6 +594,50 @@ date = "2015-09-15 17:10:29 +0000";
 designer = "Nick Shinn";
 designerURL = www.shinntype.com;
 familyName = "Bellefair";
+featurePrefixes = (
+{
+automatic = 1;
+code = "languagesystem DFLT dflt;\012languagesystem latn dflt;\012languagesystem hebr dflt;\012languagesystem latn CAT;\012";
+name = Languagesystems;
+}
+);
+features = (
+{
+automatic = 1;
+code = "feature locl;\012feature sups;\012feature frac;\012feature ordn;\012feature case;\012";
+name = aalt;
+},
+{
+automatic = 1;
+code = "script latn;\012language CAT;\012sub  l' periodcentered' l by ldot;\012sub  L' periodcentered' L by Ldot;\012";
+name = locl;
+},
+{
+automatic = 1;
+code = "sub one by onesuperior;\012sub three by threesuperior;\012sub two by twosuperior;\012";
+name = sups;
+},
+{
+automatic = 1;
+code = "sub one slash four by onequarter;\012sub one slash two by onehalf;\012sub three slash four by threequarters;\012";
+name = frac;
+},
+{
+automatic = 1;
+code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;\012sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;\012";
+name = ordn;
+},
+{
+automatic = 1;
+code = "sub grave by grave.case;\012sub dieresis by dieresis.case;\012sub macron by macron.case;\012sub acute by acute.case;\012sub circumflex by circumflex.case;\012sub caron by caron.case;\012sub breve by breve.case;\012sub dotaccent by dotaccent.case;\012sub ring by ring.case;\012sub tilde by tilde.case;\012sub hungarumlaut by hungarumlaut.case;\012";
+name = case;
+},
+{
+automatic = 1;
+code = "sub f f l by f_f_l;\012sub f f i by f_f_i;\012sub f i by fi;\012sub f f by f_f;\012sub f l by fl;\012";
+name = liga;
+}
+);
 fontMaster = (
 {
 alignmentZones = (
@@ -20634,7 +20678,7 @@ unicode = 05D4;
 },
 {
 glyphname = "vav-hb";
-lastChange = "2015-11-22 15:36:25 +0000";
+lastChange = "2015-11-23 15:33:30 +0000";
 layers = (
 {
 anchors = (
@@ -20660,7 +20704,7 @@ position = "{59, 364}";
 },
 {
 name = topleft;
-position = "{110, 384}";
+position = "{160, 384}";
 }
 );
 background = {
@@ -22133,13 +22177,13 @@ unicode = 05DB;
 },
 {
 glyphname = "lamed-hb";
-lastChange = "2015-11-22 15:37:36 +0000";
+lastChange = "2015-11-23 16:44:31 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{132, -10}";
+position = "{138, -10}";
 },
 {
 name = bottomleft;
@@ -23561,13 +23605,13 @@ unicode = 05DE;
 },
 {
 glyphname = "finalnun-hb";
-lastChange = "2015-11-22 15:37:25 +0000";
+lastChange = "2015-11-23 15:36:23 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{58, 0}";
+position = "{-12, 62}";
 },
 {
 name = bottomleft;
@@ -27288,7 +27332,7 @@ unicode = FB4A;
 },
 {
 glyphname = "vavholam-hb";
-lastChange = "2015-11-22 15:46:45 +0000";
+lastChange = "2015-11-23 15:34:31 +0000";
 layers = (
 {
 components = (
@@ -27297,7 +27341,7 @@ name = "vav-hb";
 },
 {
 name = "holamhaser-hb";
-transform = "{1, 0, 0, 1, 61, -2}";
+transform = "{1, 0, 0, 1, 67, -2}";
 }
 );
 layerId = "9E0117ED-02C0-4C46-91DE-7DE1029A8F9A";
@@ -27821,13 +27865,13 @@ unicode = 05B7;
 },
 {
 glyphname = "qamats-hb";
-lastChange = "2015-11-22 13:44:29 +0000";
+lastChange = "2015-11-23 16:42:22 +0000";
 layers = (
 {
 anchors = (
 {
 name = _bottom;
-position = "{107, 0}";
+position = "{111, 0}";
 }
 );
 layerId = "9E0117ED-02C0-4C46-91DE-7DE1029A8F9A";
@@ -27900,13 +27944,13 @@ unicode = 05B9;
 },
 {
 glyphname = "holamhaser-hb";
-lastChange = "2015-11-22 15:42:47 +0000";
+lastChange = "2015-11-23 15:34:31 +0000";
 layers = (
 {
 anchors = (
 {
 name = _topleft;
-position = "{49, 386}";
+position = "{93, 386}";
 }
 );
 layerId = "9E0117ED-02C0-4C46-91DE-7DE1029A8F9A";
@@ -28045,13 +28089,13 @@ unicode = 05BC;
 },
 {
 glyphname = "shindot-hb";
-lastChange = "2015-11-22 14:53:08 +0000";
+lastChange = "2015-11-23 15:34:08 +0000";
 layers = (
 {
 anchors = (
 {
 name = _topright;
-position = "{30, 496}";
+position = "{40, 496}";
 }
 );
 layerId = "9E0117ED-02C0-4C46-91DE-7DE1029A8F9A";
@@ -28082,13 +28126,13 @@ unicode = 05C1;
 },
 {
 glyphname = "sindot-hb";
-lastChange = "2015-11-22 14:53:13 +0000";
+lastChange = "2015-11-23 15:34:21 +0000";
 layers = (
 {
 anchors = (
 {
 name = _topleft;
-position = "{78, 496}";
+position = "{-28, 496}";
 }
 );
 layerId = "9E0117ED-02C0-4C46-91DE-7DE1029A8F9A";
