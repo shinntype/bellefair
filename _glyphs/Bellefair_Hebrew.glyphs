@@ -1,14 +1,17 @@
 {
 DisplayStrings = (
 "a?",
-"/qof-hb/alef-hb/qof-hb/bet-hb/qof-hb/gimel-hb/qof-hb/dalet-hb/qof-hb/he-hb/qof-hb/vav-hb/qof-hb/zayin-hb/qof-hb/het-hb/qof-hb/tet-hb/qof-hb/yod-hb/qof-hb/finalkaf-hb/qof-hb/kaf-hb/qof-hb/lamed-hb/qof-hb/finalmem-hb/qof-hb/mem-hb/qof-hb/finalnun-hb/qof-hb/nun-hb/qof-hb/samekh-hb/qof-hb/ayin-hb/qof-hb/finalpe-hb/qof-hb/pe-hb/qof-hb/finaltsadi-hb/qof-hb/tsadi-hb/qof-hb/qof-hb/qof-hb/resh-hb/qof-hb/shin-hb/qof-hb/tav-hb/qof-hb \012/resh-hb/alef-hb/resh-hb/bet-hb/resh-hb/gimel-hb/resh-hb/dalet-hb/resh-hb/he-hb/resh-hb/vav-hb/resh-hb/zayin-hb/resh-hb/het-hb/resh-hb/tet-hb/resh-hb/yod-hb/resh-hb/finalkaf-hb/resh-hb/kaf-hb/resh-hb/lamed-hb/resh-hb/finalmem-hb/resh-hb/mem-hb/resh-hb/finalnun-hb/resh-hb/nun-hb/resh-hb/samekh-hb/resh-hb/ayin-hb/resh-hb/finalpe-hb/resh-hb/pe-hb/resh-hb/finaltsadi-hb/resh-hb/tsadi-hb/resh-hb/qof-hb/resh-hb/resh-hb/resh-hb/shin-hb/resh-hb/tav-hb/resh-hb/geresh-hb \012/shin-hb/alef-hb/shin-hb/bet-hb/shin-hb/gimel-hb/shin-hb/dalet-hb/shin-hb/he-hb/shin-hb/vav-hb/shin-hb/zayin-hb/shin-hb/het-hb/shin-hb/tet-hb/shin-hb/yod-hb/shin-hb/finalkaf-hb/shin-hb/kaf-hb/shin-hb/lamed-hb/shin-hb/finalmem-hb/shin-hb/mem-hb/shin-hb/finalnun-hb/shin-hb/nun-hb/shin-hb/samekh-hb/shin-hb/ayin-hb/shin-hb/finalpe-hb/shin-hb/pe-hb/shin-hb/finaltsadi-hb/shin-hb/tsadi-hb/shin-hb/qof-hb/shin-hb/resh-hb/shin-hb/shin-hb/shin-hb/tet-hb/tet-hb/ayin-hb/ayin-hb/yod-hb/shin-hb/yod-hb/tet-hb/yod-hb/tav-hb/shin-hb \012/tav-hb/alef-hb/tav-hb/bet-hb/tav-hb/gimel-hb/tav-hb/dalet-hb/tav-hb/he-hb/tav-hb/vav-hb/tav-hb/zayin-hb/tav-hb/het-hb/tav-hb/tet-hb/tav-hb/yod-hb/tav-hb/finalkaf-hb/tav-hb/kaf-hb/tav-hb/lamed-hb/tav-hb/finalmem-hb/tav-hb/mem-hb/tav-hb/finalnun-hb/tav-hb/nun-hb/tav-hb/samekh-hb/tav-hb/ayin-hb/tav-hb/finalpe-hb/tav-hb/pe-hb/tav-hb/finaltsadi-hb/tav-hb/tsadi-hb/tav-hb/qof-hb/tav-hb/resh-hb/tav-hb/shin-hb/tav-hb/tav-hb/tav-hb",
+"/qof-hb/alef-hb/qof-hb/bet-hb/qof-hb/gimel-hb/qof-hb/dalet-hb/qof-hb/he-hb/qof-hb/vav-hb/qof-hb/zayin-hb/qof-hb/het-hb/qof-hb/tet-hb/qof-hb/yod-hb/qof-hb/finalkaf-hb/qof-hb/kaf-hb/qof-hb/lamed-hb/qof-hb/finalmem-hb/qof-hb/mem-hb/qof-hb/finalnun-hb/qof-hb/nun-hb/qof-hb/samekh-hb/qof-hb/ayin-hb/qof-hb/finalpe-hb/qof-hb/pe-hb/qof-hb/finaltsadi-hb/qof-hb/tsadi-hb/qof-hb/qof-hb/qof-hb/resh-hb/qof-hb/shin-hb/qof-hb/tav-hb/qof-hb \012/resh-hb/alef-hb/resh-hb/bet-hb/resh-hb/gimel-hb/resh-hb/dalet-hb/resh-hb/he-hb/resh-hb/vav-hb/resh-hb/zayin-hb/resh-hb/het-hb/resh-hb/tet-hb/resh-hb/yod-hb/resh-hb/finalkaf-hb/resh-hb/kaf-hb/resh-hb/lamed-hb/resh-hb/finalmem-hb/resh-hb/mem-hb/resh-hb/finalnun-hb/resh-hb/nun-hb/resh-hb/samekh-hb/resh-hb/ayin-hb/resh-hb/finalpe-hb/resh-hb/pe-hb/resh-hb/finaltsadi-hb/resh-hb/tsadi-hb/resh-hb/qof-hb/resh-hb/resh-hb/resh-hb/shin-hb/resh-hb/tav-hb/resh-hb/geresh-hb/nun-hb/yod-hb/lamed-hb/geresh-hb/mem-hb .\012/shin-hb/alef-hb/shin-hb/bet-hb/shin-hb/gimel-hb/shin-hb/dalet-hb/shin-hb/he-hb/shin-hb/vav-hb/shin-hb/zayin-hb/shin-hb/het-hb/shin-hb/tet-hb/shin-hb/yod-hb/shin-hb/finalkaf-hb/shin-hb/kaf-hb/shin-hb/lamed-hb/shin-hb/finalmem-hb/shin-hb/mem-hb/shin-hb/finalnun-hb/shin-hb/nun-hb/shin-hb/samekh-hb/shin-hb/ayin-hb/shin-hb/finalpe-hb/shin-hb/pe-hb/shin-hb/finaltsadi-hb/shin-hb/tsadi-hb/shin-hb/qof-hb/shin-hb/resh-hb/shin-hb/shin-hb/shin-hb/tet-hb/tet-hb/ayin-hb/ayin-hb/yod-hb/shin-hb/yod-hb/tet-hb/yod-hb/tav-hb/shin-hb \012/tav-hb/alef-hb/tav-hb/bet-hb/tav-hb/gimel-hb/tav-hb/dalet-hb/tav-hb/he-hb/tav-hb/vav-hb/tav-hb/zayin-hb/tav-hb/het-hb/tav-hb/tet-hb/tav-hb/yod-hb/tav-hb/finalkaf-hb/tav-hb/kaf-hb/tav-hb/lamed-hb/tav-hb/finalmem-hb/tav-hb/mem-hb/tav-hb/finalnun-hb/tav-hb/nun-hb/tav-hb/samekh-hb/tav-hb/ayin-hb/tav-hb/finalpe-hb/tav-hb/pe-hb/tav-hb/finaltsadi-hb/tav-hb/tsadi-hb/tav-hb/qof-hb/tav-hb/resh-hb/tav-hb/shin-hb/tav-hb/tav-hb/tav-hb",
 "/he-hb/qof-hb/vav-hb/alef-hb/vav-hb/het-hb/samekh-hb/he-hb \012/he-hb/qof-hb/vav-hb/bet-hb/vav-hb/het-hb/samekh-hb/he-hb \012/he-hb/qof-hb/vav-hb/gimel-hb/vav-hb/het-hb/samekh-hb/he-hb \012/he-hb/qof-hb/vav-hb/dalet-hb/vav-hb/het-hb/samekh-hb/he-hb \012/he-hb/qof-hb/vav-hb/he-hb/vav-hb/het-hb/samekh-hb/he-hb \012/he-hb/qof-hb/vav-hb/vav-hb/vav-hb/het-hb/samekh-hb/he-hb \012/he-hb/qof-hb/vav-hb/zayin-hb/vav-hb/lamed-hb/het-hb/samekh-hb/he-hb \012/he-hb/qof-hb/vav-hb/het-hb/vav-hb/het-hb/samekh-hb/he-hb \012/he-hb/qof-hb/vav-hb/tet-hb/vav-hb/het-hb/samekh-hb/he-hb \012/he-hb/qof-hb/vav-hb/yod-hb/vav-hb/het-hb/samekh-hb/he-hb \012/he-hb/qof-hb/vav-hb/kaf-hb/vav-hb/het-hb/samekh-hb/he-hb \012/he-hb/qof-hb/vav-hb/finalkaf-hb \012/he-hb/qof-hb/vav-hb/lamed-hb/vav-hb/het-hb/samekh-hb/he-hb \012/he-hb/qof-hb/vav-hb/mem-hb/vav-hb/het-hb/samekh-hb/he-hb \012/he-hb/qof-hb/vav-hb/finalmem-hb \012/he-hb/qof-hb/vav-hb/nun-hb/vav-hb/het-hb/samekh-hb/he-hb \012/he-hb/qof-hb/vav-hb/finalnun-hb \012/he-hb/qof-hb/vav-hb/samekh-hb/vav-hb/het-hb/samekh-hb/he-hb \012/he-hb/qof-hb/vav-hb/ayin-hb/vav-hb/het-hb/samekh-hb/he-hb \012/he-hb/qof-hb/vav-hb/pe-hb/vav-hb/het-hb/samekh-hb/he-hb \012/he-hb/qof-hb/vav-hb/finalpe-hb \012/he-hb/qof-hb/vav-hb/tsadi-hb/vav-hb/het-hb/samekh-hb/he-hb \012/he-hb/qof-hb/vav-hb/finaltsadi-hb \012/he-hb/qof-hb/vav-hb/qof-hb/vav-hb/het-hb/samekh-hb/he-hb \012/he-hb/qof-hb/vav-hb/resh-hb/vav-hb/het-hb/samekh-hb/he-hb \012/he-hb/qof-hb/vav-hb/shin-hb/vav-hb/het-hb/samekh-hb/he-hb \012/he-hb/qof-hb/vav-hb/tav-hb/vav-hb/het-hb/samekh-hb/he-hb \012\012\012/he-hb/qof-hb/zayin-hb/alef-hb/zayin-hb/het-hb/samekh-hb/he-hb \012/he-hb/qof-hb/zayin-hb/bet-hb/zayin-hb/het-hb/samekh-hb/he-hb \012/he-hb/qof-hb/zayin-hb/gimel-hb/zayin-hb/het-hb/samekh-hb/he-hb \012/he-hb/qof-hb/zayin-hb/dalet-hb/zayin-hb/het-hb/samekh-hb/he-hb \012/he-hb/qof-hb/zayin-hb/he-hb/zayin-hb/het-hb/samekh-hb/he-hb \012/he-hb/qof-hb/zayin-hb/vav-hb/zayin-hb/het-hb/samekh-hb/he-hb \012/he-hb/qof-hb/zayin-hb/zayin-hb/zayin-hb/het-hb/samekh-hb/he-hb \012/he-hb/qof-hb/zayin-hb/het-hb/zayin-hb/het-hb/samekh-hb/he-hb \012/he-hb/qof-hb/zayin-hb/tet-hb/zayin-hb/het-hb/samekh-hb/he-hb \012/he-hb/qof-hb/zayin-hb/yod-hb/zayin-hb/het-hb/samekh-hb/he-hb \012/he-hb/qof-hb/zayin-hb/kaf-hb/zayin-hb/het-hb/samekh-hb/he-hb \012/he-hb/qof-hb/zayin-hb/finalkaf-hb \012/he-hb/qof-hb/zayin-hb/lamed-hb/zayin-hb/het-hb/samekh-hb/he-hb \012/he-hb/qof-hb/zayin-hb/mem-hb/zayin-hb/het-hb/samekh-hb/he-hb \012/he-hb/qof-hb/zayin-hb/finalmem-hb \012/he-hb/qof-hb/zayin-hb/nun-hb/zayin-hb/het-hb/samekh-hb/he-hb \012/he-hb/qof-hb/zayin-hb/finalnun-hb \012/he-hb/qof-hb/zayin-hb/samekh-hb/zayin-hb/het-hb/samekh-hb/he-hb \012/he-hb/qof-hb/zayin-hb/ayin-hb/zayin-hb/het-hb/samekh-hb/he-hb \012/he-hb/qof-hb/zayin-hb/pe-hb/zayin-hb/het-hb/samekh-hb/he-hb \012/he-hb/qof-hb/zayin-hb/finalpe-hb \012/he-hb/qof-hb/zayin-hb/tsadi-hb/zayin-hb/het-hb/samekh-hb/he-hb \012/he-hb/qof-hb/zayin-hb/finaltsadi-hb \012/he-hb/qof-hb/zayin-hb/qof-hb/zayin-hb/het-hb/samekh-hb/he-hb \012/he-hb/qof-hb/zayin-hb/resh-hb/zayin-hb/het-hb/samekh-hb/he-hb \012 /he-hb/qof-hb/zayin-hb/shin-hb/zayin-hb/het-hb/samekh-hb/he-hb \012/he-hb/qof-hb/zayin-hb/tav-hb/zayin-hb/het-hb/samekh-hb/he-hb",
 "/tsere-hb/qamats-hb",
 "/hatafsegol-hb/hatafpatah-hb/hatafqamats-hb/segol-hb",
 "/pe-hb/pedagesh-hb",
 "/finalpe-hb/het-hb/alef-hb/dagesh-hb/finalpedagesh-hb/pe-hb",
 "/vavdagesh-hb/zayindagesh-hb",
-"/pedagesh-hb"
+"/pedagesh-hb",
+"/het-hb/het-hb/het-hb/het-hb/het-hb/vav-hb/bet-hb/vav-hb/nun-hb/geresh-hb",
+"/pe-hb",
+"\012\"/alef-hb \"\"/alef-hb \"\012\"/bet-hb \"/gimel-hb \"/dalet-hb \"/he-hb \"/vav-hb \"/vav-hb \"/zayin-hb \"/het-hb \"/tet-hb \"/yod-hb \"/kaf-hb \"/finalkaf-hb \"/lamed-hb \"/mem-hb \"/finalmem-hb \"/nun-hb \"/finalnun-hb \"/samekh-hb \"/ayin-hb \"/pe-hb \"/finalpe-hb \"/tsadi-hb \"/qof-hb \"/resh-hb \"/shin-hb \"/tav-hb"
 );
 customParameters = (
 {
@@ -602,19 +605,19 @@ familyName = "Bellefair";
 featurePrefixes = (
 {
 automatic = 1;
-code = "languagesystem DFLT dflt;\012languagesystem latn dflt;\012languagesystem hebr dflt;\012languagesystem latn CAT;\012";
+code = "languagesystem DFLT dflt;\012languagesystem latn dflt;\012languagesystem hebr dflt;\012languagesystem latn ROM;\012languagesystem latn MOL;\012languagesystem latn CAT;\012";
 name = Languagesystems;
 }
 );
 features = (
 {
 automatic = 1;
-code = "feature locl;\012feature sups;\012feature frac;\012feature ordn;\012feature case;\012";
+code = "feature locl;\012feature sups;\012feature frac;\012feature ordn;\012feature case;\012feature calt;\012";
 name = aalt;
 },
 {
 automatic = 1;
-code = "script latn;\012language CAT;\012sub  l' periodcentered' l by ldot;\012sub  L' periodcentered' L by Ldot;\012";
+code = "script latn;\012language ROM;\012sub Scedilla by Scommaaccent;\012sub scedilla by scommaaccent;\012sub Tcedilla by Tcommaaccent;\012sub tcedilla by tcommaaccent;\012language MOL;\012sub Scedilla by Scommaaccent;\012sub scedilla by scommaaccent;\012sub Tcedilla by Tcommaaccent;\012sub tcedilla by tcommaaccent;\012language CAT;\012sub  l' periodcentered' l by ldot;\012sub  L' periodcentered' L by Ldot;\012";
 name = locl;
 },
 {
@@ -641,6 +644,10 @@ name = case;
 automatic = 1;
 code = "sub f f l by f_f_l;\012sub f f i by f_f_i;\012sub f i by fi;\012sub f f by f_f;\012sub f l by fl;\012";
 name = liga;
+},
+{
+code = "sub [pe-hb] dagesh-hb' by dagesh-hb.small;\012";
+name = calt;
 }
 );
 fontMaster = (
@@ -34062,7 +34069,7 @@ unicode = FB34;
 },
 {
 glyphname = "vavdagesh-hb";
-lastChange = "2015-12-02 09:48:46 +0000";
+lastChange = "2015-12-13 08:29:54 +0000";
 layers = (
 {
 components = (
@@ -34083,7 +34090,7 @@ unicode = FB35;
 },
 {
 glyphname = "zayindagesh-hb";
-lastChange = "2015-12-02 09:48:46 +0000";
+lastChange = "2015-12-13 08:29:54 +0000";
 layers = (
 {
 components = (
@@ -34272,7 +34279,7 @@ unicode = FB41;
 },
 {
 glyphname = "finalpedagesh-hb";
-lastChange = "2015-12-08 16:27:12 +0000";
+lastChange = "2015-12-13 08:29:54 +0000";
 layers = (
 {
 components = (
@@ -34293,7 +34300,7 @@ unicode = FB43;
 },
 {
 glyphname = "pedagesh-hb";
-lastChange = "2015-12-08 16:28:16 +0000";
+lastChange = "2015-12-13 08:29:54 +0000";
 layers = (
 {
 components = (
@@ -35946,6 +35953,42 @@ width = 216;
 }
 );
 unicode = 05C7;
+},
+{
+glyphname = "dagesh-hb.small";
+lastChange = "2015-12-13 08:47:57 +0000";
+layers = (
+{
+anchors = (
+{
+name = _center;
+position = "{56, 294}";
+}
+);
+layerId = "9E0117ED-02C0-4C46-91DE-7DE1029A8F9A";
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"87 294 CURVE SMOOTH",
+"87 315 OFFCURVE",
+"71 325 OFFCURVE",
+"56 325 CURVE SMOOTH",
+"41 325 OFFCURVE",
+"25 315 OFFCURVE",
+"25 294 CURVE SMOOTH",
+"25 274 OFFCURVE",
+"41 263 OFFCURVE",
+"56 263 CURVE SMOOTH",
+"71 263 OFFCURVE",
+"87 274 OFFCURVE"
+);
+}
+);
+width = 112;
+}
+);
 }
 );
 disablesNiceNames = 1;
@@ -36170,21 +36213,21 @@ v = -30;
 "mem-hb" = -10;
 "qof-hb" = 10;
 question = 10;
-"zayin-hb" = 10;
 "shin-hb" = 10;
+"zayin-hb" = 10;
 };
 "@MMK_L_tet" = {
+"@MMK_R_het-hb" = 0;
 "ayin-hb" = 20;
 "dalet-hb" = 20;
 "geresh-hb" = 30;
 "lamed-hb" = 20;
 "maqaf-hb" = 20;
+"qof-hb" = 20;
 "samekh-hb" = 20;
+"shin-hb" = 20;
 "tet-hb" = 20;
 "zayin-hb" = 20;
-"shin-hb" = 20;
-"@MMK_R_het-hb" = 0;
-"qof-hb" = 20;
 };
 "@MMK_L_w" = {
 "@MMK_R_period" = -30;
@@ -36293,10 +36336,10 @@ space = 0;
 question = 50;
 "resh-hb" = 20;
 "samekh-hb" = 20;
+"shin-hb" = 10;
 slash = 40;
 "tet-hb" = 20;
 "zayin-hb" = 30;
-"shin-hb" = 10;
 };
 "maqaf-hb" = {
 "alef-hb" = 10;
@@ -36325,6 +36368,9 @@ slash = -30;
 };
 one = {
 "@MMK_R_hyphen" = -16;
+};
+"qof-hb" = {
+"shin-hb" = 0;
 };
 seven = {
 "@MMK_R_hyphen" = -40;
@@ -36363,9 +36409,6 @@ v = {
 };
 "zayin-hb" = {
 "geresh-hb" = 0;
-};
-"qof-hb" = {
-"shin-hb" = 0;
 };
 };
 };
