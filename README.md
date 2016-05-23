@@ -1,4 +1,4 @@
-# bellefair
+# Bellefair
 
-This is the Hebrew conpanion for Bellefair typeface (designed by Nick Shinn). It is harmonised with the Latin in terms of style, weight and overall color. The two can be set side by side, or used separately. This version of the Hebrew was designed by Liron Lavi Turkenich, for the Google libre fonts library.
-2015
+Bellefair started life as a Latin typeface designed by Nick Shinn.
+Then a Hebrew typeface was designed as part of the project by Liron Lavi Turkenich, to be a good match in terms of style, weight and overall color. 
